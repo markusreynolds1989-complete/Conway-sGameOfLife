@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydIsfzWrX9PlooqMmmS4rUW9PRkwpMLaEujyiUS67OPK0RM4Tb0mk6q6jrCc16tAeN2ugqdq4jW0k5AT9fcfxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MR071411\\Desktop\\FunCode\\CSharp\\Conway\\Conway\\Conway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MR071411\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\MR071411\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
